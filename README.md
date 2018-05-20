@@ -1,5 +1,7 @@
 # Hypothesis-Testing
 ## Data Analytic project
+[Direct Link](https://github.com/Ultraman82/Hypothesis-Testing/Assignment4.ipynb)
+
 
 Proving a hypothesis with t-test.
 ##### scipy.stats.ttest_ind : This is a two-sided test for the null hypothesis that 2 independent samples have identical average (expected) values. This test assumes that the populations have identical variances by default.
