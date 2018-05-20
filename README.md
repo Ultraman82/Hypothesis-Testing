@@ -1,6 +1,6 @@
 # Hypothesis-Testing
 ## Data Analytic project
-[Direct Link](Assignment4.ipynb)
+[Direct jupyter notebook link](Assignment4.ipynb)
 
 
 Proving a hypothesis with t-test.
