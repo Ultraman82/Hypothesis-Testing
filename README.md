@@ -1,6 +1,6 @@
 # Hypothesis-Testing
 ## Data Analytic project
-[Direct Link](https://github.com/Ultraman82/Hypothesis-Testing/Assignment4.ipynb)
+[Direct Link](https://github.com/Ultraman82/Hypothesis-Testing/Assignment 4.ipynb)
 
 
 Proving a hypothesis with t-test.
